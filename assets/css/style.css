@@ -1,0 +1,44 @@
+body {
+	color: black;
+	background-color: #666699;
+	background-image: url("http://chartcons.com/wp-content/uploads/history-trivia-questions-and-answers1.jpg");
+	font-family: "Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+}
+
+.numberbox {
+	background-color: #666699;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.images {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#totalscore {
+	background-color: #7a7a52;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#randomNumber {
+	font-size: 30px;
+}
+#title-top {
+	text-align: center;
+}
+#main {
+	margin: auto;
+	display:block;
+}
+button {
+	font-size: 22px;
+}
+#question {
+	font-size: 30px;
+}
+#time {
+	font-size: 18px;
+}
+#choices {
+	font-size: 22px;
+}
