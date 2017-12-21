@@ -109,7 +109,7 @@ $(document).ready(function() {
         'https://p.scdn.co/mp3-preview/ed5a443bc86176135ebca8a114f66f4d814d4c90'
       );
       audio.play();
-      $("#choices").html("All done, heres how you did!" +
+      $("#choices").html("All done, here is how you did!" +
         "<br>" + "Correct Answers: " + correct +
         "<br>" + "Incorrect Answers: " + incorrect +
         "<br>" + "Unanswered: " + unanswered);
