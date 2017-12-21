@@ -17,7 +17,7 @@ $(document).ready(function() {
       ],
       correctAnswer: 1
     }, {
-      question: "What is the process called when milk turns into yoghurt?",
+      question: "What is the process called when milk turns into yogurt?",
       choices: ["Molecule Synthesis", "Bacteria fermentation", "Mold growth"],
       correctAnswer: 1
     }, {
@@ -129,7 +129,7 @@ $(document).ready(function() {
       $("#choices").empty();
       count = 30;
       timer();
-      //Ends the questions and displays the  correct and incorrect answers
+      //Ends the questions and displays the correct and incorrect answers
       if (correct + incorrect + unanswered === 5) {
         ending();
         return
